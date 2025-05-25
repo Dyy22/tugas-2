@@ -1,4 +1,4 @@
-# tugas-2
+# Tugas 2 - Pemrograman Berbasis Web
 
 ## Project setup
 ```
